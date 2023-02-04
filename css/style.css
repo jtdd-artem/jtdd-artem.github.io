@@ -575,7 +575,7 @@ strong {
   color: var(--white-color);
   display: inline-block;
   min-width: 180px;
-  margin-right: 20px;
+  margin-right: 10px;
 }
 
 .artists-hover p a {
