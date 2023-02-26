@@ -725,6 +725,14 @@ strong {
   }
 }
 
+/*---------------------------------------
+  MENTIONS LEGALES               
+-----------------------------------------*/
+.mentions-section {
+  padding-top: 1em;
+  text-align: center;
+}
+
 
 /*---------------------------------------
   RESPONSIVE STYLES               
