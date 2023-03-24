@@ -594,6 +594,16 @@ strong {
 /*---------------------------------------
   SCHEDULE              
 -----------------------------------------*/
+.schedule-image {
+  border-radius: var(--border-radius-medium);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 600px;
+  text-align: center;
+}
+
 .schedule-section {
   background-image: url('../images/mines.jpeg');
   background-color: #242424;
@@ -601,6 +611,7 @@ strong {
   background-position: center;
   background-size: cover;
 }
+
 .table-responsive {
 	filter: drop-shadow(2px 2px 4px #606060);
 }
